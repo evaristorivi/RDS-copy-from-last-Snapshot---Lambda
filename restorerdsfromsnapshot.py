@@ -1,6 +1,6 @@
 
 #createRDS_FROM_SNAPSHOT-Lambda
-#Evaristo R. Rivieccio Vega - evaristo.rivieccio@colex.grupo-sm.com - Operaciones - Grupo SM
+#Evaristo R. Rivieccio Vega 
 
 """
 Specifier: Lambda that creates copies of each RDS that has the tag "Backup". The copies are generated with the last snpashot created.
