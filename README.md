@@ -1,6 +1,6 @@
 # README #
 
-![scheme](https://bitbucket.org/bitbucketsm/aws.lambdas/raw/633909690cec50863cee441259bd2b95797ca13f/RDS-backup/scheme.png)
+![scheme](https://github.com/evaristorivi/RDS-copy-from-last-Snapshot---Lambda/blob/main/scheme.png)
 
 
 ### Descripción ###
@@ -92,5 +92,3 @@ Precio de x86	0,0000166667 USD por cada GB/segundo	0,20 USD por un millón de so
 <br />
 
 
-
-* Evaristo R. Rivieccio Vega - evaristo.rivieccio@colex.grupo-sm.com - Operaciones - Grupo SM
