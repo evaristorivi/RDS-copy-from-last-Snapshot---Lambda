@@ -1,6 +1,6 @@
 
 #deleterds-Lambda
-#Evaristo R. Rivieccio Vega - evaristo.rivieccio@colex.grupo-sm.com - Operaciones - Grupo SM
+#Evaristo R. Rivieccio Vega  
 
 """
 Delete all RDS that have the hastag "Backup" and the word "copy" in their instance identifier.
