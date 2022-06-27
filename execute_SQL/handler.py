@@ -1,6 +1,6 @@
 
 #truncate.SQL.Lambda
-#Evaristo R. Rivieccio Vega - evaristo.rivieccio@colex.grupo-sm.com - Operaciones - Grupo SM
+#Evaristo R. Rivieccio Vega  
 
 """
 Connect to DB to run truncation SQL.
